@@ -36,11 +36,11 @@ The project is capable of visualizing an example result .bin file.
 
 The result for Moon_Building_Barracks.bin is:
 
-![01](pcd2kitti_bin/figs/01.png)
+![01](figs/01.png)
 
 The result for MedievalHouse2.bin is:
 
-![02](pcd2kitti_bin/figs/02.png)
+![02](figs/02.png)
 
 ## Citation
 
